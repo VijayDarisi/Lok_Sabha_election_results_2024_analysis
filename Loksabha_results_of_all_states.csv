@@ -1,0 +1,97 @@
+Party,Won,State,Total,Party_Type,Seat_Share_Percentage
+Bharatiya Janata Party - BJP,1,Andaman & Nicobar Islands,1,National,100.0
+Telugu Desam - TDP,16,Andhra Pradesh,25,Regional,64.0
+Yuvajana Sramika Rythu Congress Party - YSRCP,4,Andhra Pradesh,25,Regional,16.0
+Bharatiya Janata Party - BJP,3,Andhra Pradesh,25,National,12.0
+Janasena Party - JnP,2,Andhra Pradesh,25,Regional,8.0
+Bharatiya Janata Party - BJP,2,Arunachal Pradesh,2,National,100.0
+Bharatiya Janata Party - BJP,9,Assam,14,National,64.29
+Indian National Congress - INC,3,Assam,14,National,21.43
+"United People’s Party, Liberal - UPPL",1,Assam,14,Regional,7.14
+Asom Gana Parishad - AGP,1,Assam,14,Regional,7.14
+Janata Dal  (United) - JD(U),12,Bihar,40,Regional,30.0
+Bharatiya Janata Party - BJP,12,Bihar,40,National,30.0
+Lok Janshakti Party(Ram Vilas) - LJPRV,5,Bihar,40,Regional,12.5
+Rashtriya Janata Dal - RJD,4,Bihar,40,Regional,10.0
+Indian National Congress - INC,3,Bihar,40,National,7.5
+Communist Party of India  (Marxist-Leninist)  (Liberation) - CPI(ML)(L),2,Bihar,40,Regional,5.0
+Hindustani Awam Morcha (Secular) - HAMS,1,Bihar,40,Regional,2.5
+Independent - IND,1,Bihar,40,Regional,2.5
+Indian National Congress - INC,1,Chandigarh,1,National,100.0
+Bharatiya Janata Party - BJP,10,Chhattisgarh,11,National,90.91
+Indian National Congress - INC,1,Chhattisgarh,11,National,9.09
+Bharatiya Janata Party - BJP,1,Dadra & Nagar Haveli and Daman & Diu,2,National,50.0
+Independent - IND,1,Dadra & Nagar Haveli and Daman & Diu,2,Regional,50.0
+Bharatiya Janata Party - BJP,1,Goa,2,National,50.0
+Indian National Congress - INC,1,Goa,2,National,50.0
+Bharatiya Janata Party - BJP,25,Gujarat,26,National,96.15
+Indian National Congress - INC,1,Gujarat,26,National,3.85
+Indian National Congress - INC,5,Haryana,10,National,50.0
+Bharatiya Janata Party - BJP,5,Haryana,10,National,50.0
+Bharatiya Janata Party - BJP,4,Himachal Pradesh,4,National,100.0
+Jammu & Kashmir National Conference - JKN,2,Jammu and Kashmir,5,Regional,40.0
+Bharatiya Janata Party - BJP,2,Jammu and Kashmir,5,National,40.0
+Independent - IND,1,Jammu and Kashmir,5,Regional,20.0
+Bharatiya Janata Party - BJP,8,Jharkhand,14,National,57.14
+Jharkhand Mukti Morcha - JMM,3,Jharkhand,14,Regional,21.43
+Indian National Congress - INC,2,Jharkhand,14,National,14.29
+AJSU Party - AJSUP,1,Jharkhand,14,Regional,7.14
+Bharatiya Janata Party - BJP,17,Karnataka,28,National,60.71
+Indian National Congress - INC,9,Karnataka,28,National,32.14
+Janata Dal  (Secular) - JD(S),2,Karnataka,28,Regional,7.14
+Indian National Congress - INC,14,Kerala,20,National,70.0
+Indian Union Muslim League - IUML,2,Kerala,20,Regional,10.0
+Communist Party of India  (Marxist) - CPI(M),1,Kerala,20,Regional,5.0
+Bharatiya Janata Party - BJP,1,Kerala,20,National,5.0
+Kerala Congress - KEC,1,Kerala,20,Regional,5.0
+Revolutionary Socialist Party - RSP,1,Kerala,20,Regional,5.0
+Independent - IND,1,Ladakh,1,Regional,100.0
+Indian National Congress - INC,1,Lakshadweep,1,National,100.0
+Bharatiya Janata Party - BJP,29,Madhya Pradesh,29,National,100.0
+Indian National Congress - INC,13,Maharashtra,48,National,27.08
+Bharatiya Janata Party - BJP,9,Maharashtra,48,National,18.75
+Shiv Sena (Uddhav Balasaheb Thackrey) - SHSUBT,9,Maharashtra,48,Regional,18.75
+Nationalist Congress Party – Sharadchandra Pawar - NCPSP,8,Maharashtra,48,Regional,16.67
+Shiv Sena - SHS,7,Maharashtra,48,Regional,14.58
+Nationalist Congress Party - NCP,1,Maharashtra,48,Regional,2.08
+Independent - IND,1,Maharashtra,48,Regional,2.08
+Indian National Congress - INC,2,Manipur,2,National,100.0
+Voice of the People Party - VOTPP,1,Meghalaya,2,Regional,50.0
+Indian National Congress - INC,1,Meghalaya,2,National,50.0
+Zoram People’s Movement - ZPM,1,Mizoram,1,Regional,100.0
+Indian National Congress - INC,1,Nagaland,1,National,100.0
+Bharatiya Janata Party - BJP,7,NCT OF Delhi,7,National,100.0
+Bharatiya Janata Party - BJP,20,Odisha,21,National,95.24
+Indian National Congress - INC,1,Odisha,21,National,4.76
+Indian National Congress - INC,1,Puducherry,1,National,100.0
+Indian National Congress - INC,7,Punjab,13,National,53.85
+Aam Aadmi Party - AAAP,3,Punjab,13,Regional,23.08
+Shiromani Akali Dal - SAD,1,Punjab,13,Regional,7.69
+Independent - IND,2,Punjab,13,Regional,15.38
+Bharatiya Janata Party - BJP,14,Rajasthan,25,National,56.0
+Indian National Congress - INC,8,Rajasthan,25,National,32.0
+Communist Party of India  (Marxist) - CPI(M),1,Rajasthan,25,Regional,4.0
+Rashtriya Loktantrik Party - RLTP,1,Rajasthan,25,Regional,4.0
+Bharat Adivasi Party - BHRTADVSIP,1,Rajasthan,25,Regional,4.0
+Sikkim Krantikari Morcha - SKM,1,Sikkim,1,Regional,100.0
+Dravida Munnetra Kazhagam - DMK,22,Tamil Nadu,39,Regional,56.41
+Indian National Congress - INC,9,Tamil Nadu,39,National,23.08
+Viduthalai Chiruthaigal Katchi - VCK,2,Tamil Nadu,39,Regional,5.13
+Communist Party of India - CPI,2,Tamil Nadu,39,Regional,5.13
+Communist Party of India  (Marxist) - CPI(M),2,Tamil Nadu,39,Regional,5.13
+Marumalarchi Dravida Munnetra Kazhagam - MDMK,1,Tamil Nadu,39,Regional,2.56
+Indian Union Muslim League - IUML,1,Tamil Nadu,39,Regional,2.56
+Bharatiya Janata Party - BJP,8,Telangana,17,National,47.06
+Indian National Congress - INC,8,Telangana,17,National,47.06
+All India Majlis-E-Ittehadul Muslimeen - AIMIM,1,Telangana,17,Regional,5.88
+Bharatiya Janata Party - BJP,2,Tripura,2,National,100.0
+Samajwadi Party - SP,37,Uttar Pradesh,80,Regional,46.25
+Bharatiya Janata Party - BJP,33,Uttar Pradesh,80,National,41.25
+Indian National Congress - INC,6,Uttar Pradesh,80,National,7.5
+Rashtriya Lok Dal - RLD,2,Uttar Pradesh,80,Regional,2.5
+Aazad Samaj Party (Kanshi Ram) - ASPKR,1,Uttar Pradesh,80,Regional,1.25
+Apna Dal (Soneylal) - ADAL,1,Uttar Pradesh,80,Regional,1.25
+Bharatiya Janata Party - BJP,5,Uttarakhand,5,National,100.0
+All India Trinamool Congress - AITC,29,West Bengal,42,Regional,69.05
+Bharatiya Janata Party - BJP,12,West Bengal,42,National,28.57
+Indian National Congress - INC,1,West Bengal,42,National,2.38
