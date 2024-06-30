@@ -1,0 +1,2 @@
+# Lok_Sabha_election_results_2024_analysis
+Creating Insights of election results
